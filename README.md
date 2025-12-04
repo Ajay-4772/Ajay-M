@@ -14,7 +14,7 @@ My passion is converting ideas into <b>scalable, user-focused, automated intelli
 
 ## 🚀 About Me
 - 💡 AI & Data Science Engineering Student  
-- 🧠 Building next-generation end-to-end **AutoML & LLM-powered Platforms**  
+- 🧠 Building next-generation end-to-end **AI & LLM-powered Platforms**  
 - 💼 Interested in **AI Products, SaaS, Automation, Security & Full-Stack ML applications**  
 - 🎯 Goal: Become an **AI Entrepreneur & Founder of an AI Startup**  
 
@@ -23,27 +23,24 @@ My passion is converting ideas into <b>scalable, user-focused, automated intelli
 ## 🧠 Current Major Projects
 | Project | Stack | Focus |
 |--------|-------|-------|
-| 🔹 AutoML AI Platform | Next.js · FastAPI · Firebase · Vertex AI · GPT | AI-assisted model generation, deployment, voice assistant |
-| 🔹 JobSync AI | GPT · NLP · Resume Parsing | ATS optimization, JD matching, score analysis |
+| 🔹 EMMA : A Conversational EDA Assistant With Langchains and LLMs | Python ·Streamllit· SQL database· LLM API | AI-assisted model generation, deployment, voice assistant |
 | 🔹 Live Face Recognition Authentication | Python · OpenCV · DeepFace · ML | Liveness detection · OTP · Fraud detection |
-| 🔹 Virtual Science Lab | ML · Web Simulation · React | Real-time science experiments with AI assistance |
-| 🔹 AI Document Editor | Next.js · Tauri · Cross-Platform | Math rendering · Code blocks · AI writing assistant |
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Programming
-`Python` · `Java` · `C` · `JavaScript` · `TypeScript`
+`Python` · `Java` · `C++` 
 
 ### 🧠 AI / ML / DL
 `TensorFlow` · `PyTorch` · `Scikit-Learn` · `OpenCV` · `Pandas` · `NumPy` · `LLM APIs`
 
 ### 🌐 Web Development
-`Next.js` · `React` · `Node.js` · `FastAPI`
+`Next.js` · `React` · `Node.js` · `FastAPI` . `Vibe Coding`
 
 ### ☁ Cloud & DevOps
-`Google Cloud` · `Vertex AI` · `Firebase` · `Docker` · `CI/CD`
+`Google Cloud` · `Firebase`
 
 ### 🗄 Databases
 `Firestore` · `SQL`
@@ -52,7 +49,7 @@ My passion is converting ideas into <b>scalable, user-focused, automated intelli
 
 ## 🏆 Achievements
 - 🥇 HackerRank **Java (5 Stars)**
-- 🧠 Built multiple **production-style AI applications**
+- 🧠 Build applications with AI tools - Vibe coding
 
 ---
 
@@ -64,17 +61,6 @@ My passion is converting ideas into <b>scalable, user-focused, automated intelli
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ajay-m4772&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay-m4772&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-m4772&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 📌 Featured Quote
