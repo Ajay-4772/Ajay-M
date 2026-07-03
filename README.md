@@ -31,7 +31,7 @@ My passion is converting ideas into <b>scalable, user-focused, automated intelli
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Programming
-`Python` · `Java` · `C++` 
+`Python` · `Java`  
 
 ### 🧠 AI / ML / DL
 `TensorFlow` · `PyTorch` · `Scikit-Learn` · `OpenCV` · `Pandas` · `NumPy` · `LLM APIs`
